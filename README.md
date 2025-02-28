@@ -37,6 +37,8 @@ npm run dev
 This game is part of the **KiteAI Testnet**, an experimental platform for testing AI-powered gaming experiences.
 
 ## 📸 UI Preview
-![Game UI](path_to_your_image.png)
+![Game UI](https://i.imgur.com/XiHoe3o.png)
+
+🔗 **Play Now:** [KiteAI Flappy Bird](https://eigenbird.vercel.app/)
 
 🔗 **Stay tuned for updates and rewards!** 🎉
